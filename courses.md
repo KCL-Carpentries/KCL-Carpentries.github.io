@@ -4,6 +4,7 @@ title: Our courses
 ---
 
   [[Git]](#git)
+| [[R]](#r)
 | [[Unix Shell]](#the-unix-shell)
 
 <br/>
@@ -28,6 +29,21 @@ You can refresh these commands using the following Carpentries' material:
 
 * [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html)
 * [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
+
+<br/>
+
+
+## R
+
+This workshop is aimed at individuals who have no experience of R. The course will cover some basics very basic concepts of working in R and R Studio, including:
+		
+* how to manipulate data frames using dplyr
+* how to plotting graphs in R using ggplot2
+
+
+#### Prerequisites
+	
+There is no prerequisite for this workshop.
 
 <br/>
 

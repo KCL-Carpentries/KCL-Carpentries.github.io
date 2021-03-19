@@ -90,8 +90,8 @@ title: Meet the team
 * **Taught workshops:**
 	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
-
-
+	- LC-like Workshop: Introduction to OpenRefine
+		- [March 3, 2021](https://swc-kcl-london-03-2021.github.io/2021-03-03-KCL-OpenRefine/)
 
 <br/>
 

@@ -15,13 +15,15 @@ In the meantime, have a look at some of the [feedback we received]({{ "/" | rela
 * *LC: Library Carpentries*
 * *DC: Data Carpentries*
 
-### LC-like Workshop: Introduction to OpenRefine
 
-* [**Website**](https://swc-kcl-london-03-2021.github.io/2021-03-03-KCL-OpenRefine/) 
-* **Date:** March 3, 2021 (online)
-* **Time:** 9:30 am - 1:30 pm
-* **Topic Covered:** OpenRefine
-* **Sign up**: [Eventbrite](https://www.eventbrite.co.uk/e/openrefine-data-cleaning-and-transformation-tickets-138258090671)
+### SWC-like Workshop: Introduction to R
+
+* **Website:** TBA
+* **Date:** April 14, 21, and 28, 2021 (online)
+* **Time:** 2-5 pm
+* **Topic Covered:** R
+* **Sign up**: [Eventbrite](https://www.eventbrite.com/e/introduction-to-r-a-software-carpentry-like-course-tickets-146888099259)
+
 
 ### SWC-like Workshop: Introduction to the Unix Shell
 

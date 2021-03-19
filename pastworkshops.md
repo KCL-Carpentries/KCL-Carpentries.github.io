@@ -16,6 +16,12 @@ If you would you like to have more information about our [future workshops]({{ "
 * *LC: Library Carpentries*
 * *DC: Data Carpentries*
 
+### LC-like Workshop: Introduction to OpenRefine
+
+* [**Website**](https://swc-kcl-london-03-2021.github.io/2021-03-03-KCL-OpenRefine/) 
+* **Date:** March 3, 2021 (online)
+* **Topic Covered:** OpenRefine
+
 
 ### SWC-like Workshop: Introduction to Git
 
