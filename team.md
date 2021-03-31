@@ -146,7 +146,7 @@ title: Meet the team
 
 ### Fursham Hamid
 
-![Fursham's profile pic]({{ "/" | relative_url }}assets/fursham.jpg)
+![Fursham's profile pic]({{ "/" | relative_url }}assets/fursham.jpeg)
 
 * **Job title:** Research Associate
 * **Background:** RNA Biologist in brain development
