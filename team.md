@@ -6,6 +6,7 @@ title: Meet the team
   [[Alessia Visconti]](#alessia-visconti)
 | [[Fiona Wardle]](#fiona-wardle)
 | [[Flavia Flaviani]](#flavia-flaviani)
+| [[Fursham Hamid]](#fursham-hamid)
 | [[James Cain]](#james-cain)
 | [[Neil Jakeman]](#neil-jakeman)
 | [[Stefania Marcotti]](#stefania-marcotti)
@@ -120,6 +121,17 @@ title: Meet the team
 
 ## KCL Carpentries Helpers
 
+### Fursham Hamid
+
+![Fursham's profile pic]({{ "/" | relative_url }}assets/fursham.jpeg)
+
+* **Job title:** Research Associate
+* **Background:** RNA Biologist in brain development
+* **Research interest:** 
+	- High Throughput Transcriptomics
+	- Alternative pre-mRNA splicing
+	- Single-cell RNA sequencing analyses
+
 ### James Cain
 
 ![James' profile pic]({{ "/" | relative_url }}assets/james.jpg)
@@ -144,14 +156,5 @@ title: Meet the team
 	- Machine learning
 
 
-### Fursham Hamid
 
-![Fursham's profile pic]({{ "/" | relative_url }}assets/fursham.jpeg)
-
-* **Job title:** Research Associate
-* **Background:** RNA Biologist in brain development
-* **Research interest:** 
-	- High Throughput Transcriptomics
-	- Alternative pre-mRNA splicing
-	- Single-cell RNA sequencing analyses
 
