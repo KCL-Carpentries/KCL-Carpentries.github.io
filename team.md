@@ -143,3 +143,15 @@ title: Meet the team
 	- Statistical genetics/genomics
 	- Machine learning
 
+
+### Fursham Hamid
+
+![Fursham's profile pic]({{ "/" | relative_url }}assets/fursham.jpg)
+
+* **Job title:** Research Associate
+* **Background:** RNA Biologist in brain development
+* **Research interest:** 
+	- High Throughput Transcriptomics
+	- Alternative pre-mRNA splicing
+	- Single-cell RNA sequencing analyses
+
