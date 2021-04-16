@@ -16,6 +16,15 @@ If you would you like to have more information about our [future workshops]({{ "
 * *LC: Library Carpentries*
 * *DC: Data Carpentries*
 
+
+### SWC-like Workshop: Introduction to R
+
+* [**Website**](https://kcl-carpentries.github.io/2021-04-14-KCL-IntroR-online/)
+* **Date:** April 14, 21, and 28, 2021 (online)
+* **Time:** 2-5 pm
+* **Topic Covered:** R
+
+
 ### LC-like Workshop: Introduction to OpenRefine
 
 * [**Website**](https://swc-kcl-london-03-2021.github.io/2021-03-03-KCL-OpenRefine/) 

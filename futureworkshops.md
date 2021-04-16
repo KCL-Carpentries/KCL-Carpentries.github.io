@@ -16,15 +16,6 @@ In the meantime, have a look at some of the [feedback we received]({{ "/" | rela
 * *DC: Data Carpentries*
 
 
-### SWC-like Workshop: Introduction to R
-
-* [**Website**](https://kcl-carpentries.github.io/2021-04-14-KCL-IntroR-online/)
-* **Date:** April 14, 21, and 28, 2021 (online)
-* **Time:** 2-5 pm
-* **Topic Covered:** R
-* **Sign up**: [Eventbrite](https://www.eventbrite.com/e/introduction-to-r-a-software-carpentry-like-course-tickets-146888099259)
-
-
 ### SWC-like Workshop: Introduction to the Unix Shell
 
 * [**Website**](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
