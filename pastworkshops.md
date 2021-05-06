@@ -17,6 +17,14 @@ If you would you like to have more information about our [future workshops]({{ "
 * *DC: Data Carpentries*
 
 
+### SWC-like Workshop: Introduction to the Unix Shell
+
+* [**Website**](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
+* **Date:** May 12, 19, and 26, 2021 (online)
+* **Time:** 2-5 pm
+* **Topic Covered:** Unix shell
+
+
 ### SWC-like Workshop: Introduction to R
 
 * [**Website**](https://kcl-carpentries.github.io/2021-04-14-KCL-IntroR-online/)
