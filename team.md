@@ -49,12 +49,14 @@ title: Meet the team
 * **Taught workshops:**
 	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
-	- SWC-like Workshop: 
-		- Summer 2020
+	- SWC-like Workshop: Introduction to Unix
+		- [May 2021](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
-	- SWC-like Workshop: Git
 		- Summer 2020
+	- SWC-like Workshop: Introduction to Git
+		- [June 2021](https://kcl-carpentries.github.io/2021-06-09-KCL-online/)
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
+		- Summer 2020
 	
 <br/>
 
@@ -70,13 +72,15 @@ title: Meet the team
 	- Microbial ecology 
 	- NGS & translational medicine
 * **Taught workshops:**
-	- SWC-like Workshop: 
-		- Summer 2020
+	- SWC-like Workshop: Introduction to Unix
+		- [May 2021](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
-	- SWC-like Workshop: Git
 		- Summer 2020
+	- SWC-like Workshop: Introduction to Git
+		- [June 2021](https://kcl-carpentries.github.io/2021-06-09-KCL-online/)
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
-	
+		- Summer 2020
+			
 <br/>
 
 ### Neil Jakeman
@@ -109,12 +113,14 @@ title: Meet the team
 * **Taught workshops:**
 	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
-	- SWC-like Workshop: 
-		- Summer 2020
+	- SWC-like Workshop: Introduction to Unix
+		- [May 2021](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
-	- SWC-like Workshop: Git
 		- Summer 2020
+	- SWC-like Workshop: Introduction to Git
+		- [June 2021](https://kcl-carpentries.github.io/2021-06-09-KCL-online/)
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
+		- Summer 2020
 
 <br/>
 <br/>
