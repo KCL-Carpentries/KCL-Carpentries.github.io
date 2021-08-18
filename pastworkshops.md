@@ -23,7 +23,6 @@ If you would you like to have more information about our [future workshops]({{ "
 * **Date:** June 9 and 16, 2021 (online)
 * **Time:** 2-5 pm
 * **Topic Covered:** Git
-* **Sign up**: [Skills forge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=1003,;)
 
 
 ### SWC-like Workshop: Introduction to the Unix Shell
