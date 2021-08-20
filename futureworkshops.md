@@ -29,7 +29,7 @@ Please note that, when the sign up link is not available, dates are provisional,
 ### SWC-like Workshop: Introduction to Git
 
 * **Website:** TBA
-* **Date:** November 23 and 15, 2021 (online)
+* **Date:** November 24 and 25, 2021 (online)
 * **Time:** 2-5 pm
 * **Topic Covered:** Git
 * **Sign up**: TBA
