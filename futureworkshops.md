@@ -23,6 +23,7 @@ Please note that, when the sign up link is not available, dates are provisional,
 * **Date:** November 16, 18, and 19, 2021 (online)
 * **Time:** 2-5 pm
 * **Topic Covered:** Unix shell
+* **Additional exercise session (optional):** November 26, 2-3:15 pm
 * **Sign up**: TBA
 
 
@@ -32,5 +33,6 @@ Please note that, when the sign up link is not available, dates are provisional,
 * **Date:** November 24 and 25, 2021 (online)
 * **Time:** 2-5 pm
 * **Topic Covered:** Git
+* **Additional exercise session (optional):** November 26, 3:30-5 pm
 * **Sign up**: TBA
 
