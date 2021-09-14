@@ -19,20 +19,20 @@ Please note that, when the sign up link is not available, dates are provisional,
 
 ### SWC-like Workshop: Introduction to the Unix Shell
 
-* **Website:** TBA
+* [**Website**](https://kcl-carpentries.github.io/2021-11-16-KCL-online/) 
 * **Date:** November 16, 18, and 19, 2021 (online)
 * **Time:** 2-5 pm
 * **Topic Covered:** Unix shell
 * **Additional exercise session (optional):** November 26, 2-3:15 pm
-* **Sign up**: TBA
+* **Sign up**: [SkillsForge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=119)
 
 
 ### SWC-like Workshop: Introduction to Git
 
-* **Website:** TBA
+* [**Website**](https://kcl-carpentries.github.io/2021-11-24-KCL-online/) 
 * **Date:** November 24 and 25, 2021 (online)
 * **Time:** 2-5 pm
 * **Topic Covered:** Git
 * **Additional exercise session (optional):** November 26, 3:30-5 pm
-* **Sign up**: TBA
+* **Sign up**: [SkillsForge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=120)
 
