@@ -17,6 +17,15 @@ If you would you like to have more information about our [future workshops]({{ "
 * *DC: Data Carpentries*
 
 
+### SWC-like Workshop: Introduction to the Unix Shell
+
+* [**Website**](https://kcl-carpentries.github.io/2021-11-16-KCL-online/) 
+* **Date:** November 16, 18, and 19, 2021 (online)
+* **Time:** 2-5 pm
+* **Topic Covered:** Unix shell
+* **Additional exercise session (optional):** November 26, 2-3:15 pm
+
+
 ### SWC-like Workshop: Introduction to Git
 
 * [**Website**](https://kcl-carpentries.github.io/2021-06-09-KCL-online/)
