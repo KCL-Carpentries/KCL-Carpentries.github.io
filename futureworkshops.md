@@ -20,7 +20,7 @@ Please note that, when the sign up link is not available, dates are provisional,
 
 * [**Website**](https://kcl-carpentries.github.io/2022-05-11-KCL-online/) 
 * **Date:** May 11, 12, and 13, 2022 (online)
-* **Time:** 10 am -1 pm
+* **Time:** 10 am - 1 pm (UK time)
 * **Topic Covered:** Unix shell
 * **Additional exercise session (optional):** May 20, 10-11:15 am
 * **Sign up:** [SkillsForge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=119)
@@ -30,7 +30,7 @@ Please note that, when the sign up link is not available, dates are provisional,
 
 * [**Website**](https://kcl-carpentries.github.io/2022-05-18-KCL-online/) 
 * **Date:** May 18 and 19, 2022 (online)
-* **Time:** 10 am -1 pm
+* **Time:** 10 am -1 pm (UK time)
 * **Topic Covered:** Git
 * **Additional exercise session (optional):** May 20, 11:30 am-1 pm
 * **Sign up:** [SkillsForge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=120)
