@@ -19,6 +19,14 @@ If you would you like to have more information about our [future workshops]({{ "
 
 ### SWC-like Workshop: Introduction to Git
 
+* [**Website**](https://alesssia.github.io/2022-04-15-ukhsa-online/) 
+* **Date:** March 15, 16, and 18, 2022 (online)
+* **Time:** 10 am -1 pm
+* **Topic Covered:** Git
+
+
+### SWC-like Workshop: Introduction to Git
+
 * [**Website**](https://kcl-carpentries.github.io/2021-11-24-KCL-online/) 
 * **Date:** November 24 and 25, 2021 (online)
 * **Time:** 2-5 pm
