@@ -10,7 +10,7 @@ We are a team of volunteer [qualified Carpentries instructors](https://carpentri
 To this aim, we offer regular workshops on different coding languages, and software.
 All of our lessons involve live coding, so that the attendees can get hands-on experience and gain the basic understanding needed for them to keep exploring.
 
-Our lessons are based on the material offered by the [Carpentries](https://carpentries.org/), a volunteer project dedicated to teaching basic computing skills to researchers.
+Our lessons are based on the material offered by the [Carpentries](https://carpentries.org/), a volunteer project dedicated to teaching basic computing skills to researchers. You can read more about our experience delivering training courses in [this blog post](https://carpentries.org/blog/2022/03/online-teaching-KCL/).
 
 To get to know the team, please click [here](team/)!
 Find here a list of [past workshops](pastworkshops/), and have a look at some of the [feedback we received](feedback/), and at the the [material we cover](courses/).
