@@ -19,6 +19,23 @@ If you would you like to have more information about our [future workshops]({{ "
 
 ### SWC-like Workshop: Introduction to Git
 
+* [**Website**](https://kcl-carpentries.github.io/2022-05-18-KCL-online/) 
+* **Date:** May 18 and 19, 2022 (online)
+* **Time:** 10 am -1 pm (UK time)
+* **Topic Covered:** Git
+* **Additional exercise session (optional):** May 20, 11:30 am-1 pm
+
+### SWC-like Workshop: Introduction to the Unix Shell
+
+* [**Website**](https://kcl-carpentries.github.io/2022-05-11-KCL-online/) 
+* **Date:** May 11, 12, and 13, 2022 (online)
+* **Time:** 10 am - 1 pm (UK time)
+* **Topic Covered:** Unix shell
+* **Additional exercise session (optional):** May 20, 10-11:15 am
+
+
+### SWC-like Workshop: Introduction to Git
+
 * [**Website**](https://alesssia.github.io/2022-04-15-ukhsa-online/) 
 * **Date:** March 15, 16, and 18, 2022 (online)
 * **Time:** 10 am -1 pm
