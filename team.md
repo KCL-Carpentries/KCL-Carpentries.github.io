@@ -50,11 +50,14 @@ title: Meet the team
 	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
 	- SWC-like Workshop: Introduction to Unix
+		- [May 2022](https://kcl-carpentries.github.io/2022-05-11-KCL-online/)
 		- [November 2021](https://kcl-carpentries.github.io/2021-11-16-KCL-online/)
 		- [May 2021](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
 		- Summer 2020
 	- SWC-like Workshop: Introduction to Git
+		- [May 2022](https://kcl-carpentries.github.io/2022-05-18-KCL-online/)
+		- [March 2022](https://alesssia.github.io/2022-04-15-ukhsa-online/)
 		- [November 2021](https://kcl-carpentries.github.io/2021-11-24-KCL-online/)
 		- [June 2021](https://kcl-carpentries.github.io/2021-06-09-KCL-online/)
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
@@ -75,11 +78,14 @@ title: Meet the team
 	- NGS & translational medicine
 * **Taught workshops:**
 	- SWC-like Workshop: Introduction to Unix
+		- [May 2022](https://kcl-carpentries.github.io/2022-05-11-KCL-online/)
 		- [November 2021](https://kcl-carpentries.github.io/2021-11-16-KCL-online/)
 		- [May 2021](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
 		- Summer 2020
 	- SWC-like Workshop: Introduction to Git
+		- [May 2022](https://kcl-carpentries.github.io/2022-05-18-KCL-online/)
+		- [March 2022](https://alesssia.github.io/2022-04-15-ukhsa-online/)
 		- [November 2021](https://kcl-carpentries.github.io/2021-11-24-KCL-online/)
 		- [June 2021](https://kcl-carpentries.github.io/2021-06-09-KCL-online/)
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
@@ -118,11 +124,14 @@ title: Meet the team
 	- SWC/LC Workshop: Introduction to Python
 		- [January 9-10, 2020](https://swc-kc-london-01-2020.github.io/SWC-KCL-202001/)
 	- SWC-like Workshop: Introduction to Unix
+		- [May 2022](https://kcl-carpentries.github.io/2022-05-11-KCL-online/)
 		- [November 2021](https://kcl-carpentries.github.io/2021-11-16-KCL-online/)
 		- [May 2021](https://kcl-carpentries.github.io/2021-05-12-KCL-online/)
 		- [November 2020](https://alesssia.github.io/2020-11-180-KCL/)
 		- Summer 2020
 	- SWC-like Workshop: Introduction to Git
+		- [May 2022](https://kcl-carpentries.github.io/2022-05-18-KCL-online/)
+		- [March 2022](https://alesssia.github.io/2022-04-15-ukhsa-online/)
 		- [November 2021](https://kcl-carpentries.github.io/2021-11-24-KCL-online/)
 		- [June 2021](https://kcl-carpentries.github.io/2021-06-09-KCL-online/)
 		- [December 2020](https://alesssia.github.io/2020-11-180-KCL/)
